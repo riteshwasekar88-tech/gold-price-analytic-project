@@ -20,5 +20,5 @@ The original dataset is based on the `datasets/gold-prices` repository, which de
 - Insights and recommendations
 
 ## Student details
-- Name: Mayur Gadhave
-- Roll Number: __________
+- Name: Ritesh Wasekar
+- Roll Number: SA223
